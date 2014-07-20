@@ -5,7 +5,6 @@
 # Website:  http://www.rcesecurity.com 
 
 import sys
-import socket
 
 total = len(sys.argv)
 if total != 2:
