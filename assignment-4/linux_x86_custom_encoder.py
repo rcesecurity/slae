@@ -1,6 +1,6 @@
 #!/usr/bin/python
  
-# SLAE - Assignment #4: Custom Shellcode Encoder/Decoder (Linux/x86)
+# SLAE - Assignment #4: Custom Shellcode Encoder/Decoder
 # Author:   Julien Ahrens (@MrTuxracer)
 # Website:  http://www.rcesecurity.com 
 
